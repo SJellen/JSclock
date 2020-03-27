@@ -1,7 +1,9 @@
 html {
     background: whitesmoke url(./clock.png);
     background-size: cover;
+    background-repeat: no-repeat;
     font-family: 'helvetica neue';
+    background-color: black;
     text-align: center;
     font-size: 10px;
   }
